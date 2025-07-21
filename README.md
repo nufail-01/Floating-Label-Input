@@ -4,20 +4,19 @@ A modern and minimal implementation of floating label input fields using HTML, C
 
 ## 🚀 Features
 
-- Pure HTML, CSS, and JavaScript (no external libraries)
+- Pure HTML, CSS
 - Smooth animations for label transitions
 - Fully responsive design
 - Easy to customize and integrate
 
-## 📸 Preview
+## 🌐 Live Demo
 
-![Floating Label Demo](demo.gif) <!-- Add your GIF/image preview here -->
+[![Website Preview](assets/floating.png
+)](https://nufail-01.github.io/Floating-Label-Input/)
+
+---
 
 ## 🛠️ Technologies Used
 
 - HTML5
 - CSS3 (Flexbox & Transitions)
-- Vanilla JavaScript
-
-## 📁 Folder Structure
-
