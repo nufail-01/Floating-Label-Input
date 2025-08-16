@@ -20,3 +20,5 @@ A modern and minimal implementation of floating label input fields using HTML, C
 
 - HTML5
 - CSS3 (Flexbox & Transitions)
+
+---
